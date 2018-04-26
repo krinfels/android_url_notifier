@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Notifier</string>
+
+    <string name="downloadPending">Downloading the website</string>
+    <string name="downloadFailed">Failed to download the website</string>
+    <string name ="deleteDialogMessage">Are you shure you want to remove</string>
+    <string name="deleteDialogPositive">Confirm</string>
+    <string name="deleteDialogNegative">Cancel</string>
+
+    <string name="notificationChannelId">UrlNotification</string>
+    <string name="notificationChannelDesc">Notifications about websites that has changed will pop here</string>
+    <string name="notificationTitle">Url Notifier</string>
+    <string name="notificationText">has just changed</string>
+</resources>
